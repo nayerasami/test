@@ -1,0 +1,10 @@
+.test{
+  color: #09c !important;
+  font-weight: bold;
+}
+.immg{
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+.prod{overflow: hidden;}
